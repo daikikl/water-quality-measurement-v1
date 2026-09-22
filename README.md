@@ -25,6 +25,12 @@ The board integrates:
 
 My contribution was focused on PCB design and hardware integration for sensor testing. I did not claim authorship of the complete monitoring strategy, firmware, data analysis, or all experimental validation activities.
 
+## Related publication
+
+Liebel, D., Lugo, D., & Kawamura, D. (2024). *Estrategia de captura de datos con sensores de bajo costo para la gestión de calidad de agua del afluente del Río Paraná*. Revista Impacto, 4(1), 1–12.
+
+[Read the publication](https://revistas.uni.edu.py/index.php/impacto/article/view/504)
+
 ## PCB layout
 
 ![PCB layout for water-quality sensor testing](water-quality-v1/pcb_final_2.png)
