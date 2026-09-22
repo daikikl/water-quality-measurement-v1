@@ -1,0 +1,142 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "9acf68cd-487b-40cf-a264-72dcadabc725")
+	(paper "A4")
+	(title_block
+		(title "Sensor de Agua de Río Paraná")
+		(date "2024-02-01")
+		(rev "2.0")
+		(company "Daiki Kawamura")
+	)
+	(lib_symbols)
+	(text "Onboard LED\n25"
+		(exclude_from_sim no)
+		(at 107.188 81.788 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "442709b7-7c3e-438f-a79e-8db5698d90ec")
+	)
+	(text "I2C\n21 SDA\n22 SCL"
+		(exclude_from_sim no)
+		(at 75.184 84.328 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "56e88971-3026-4cb7-87af-fbfeabe084b9")
+	)
+	(text "Pines libres\n36\n39\n34\n35\n"
+		(exclude_from_sim no)
+		(at 40.386 88.138 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+		)
+		(uuid "5d345a83-02df-4a6a-8189-2501a5f85db3")
+	)
+	(sheet
+		(at 19.05 21.59)
+		(size 71.12 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "b72d1752-e334-48bd-91bb-599ae641d64a")
+		(property "Sheetname" "Main"
+			(at 19.05 20.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main.kicad_sch"
+			(at 19.05 62.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "water-quality-v1"
+				(path "/9acf68cd-487b-40cf-a264-72dcadabc725"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 21.59)
+		(size 63.5 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e6b94b28-396f-49a3-a7e4-2cdd55c30cc2")
+		(property "Sheetname" "Power"
+			(at 93.98 20.8784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 93.98 62.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "water-quality-v1"
+				(path "/9acf68cd-487b-40cf-a264-72dcadabc725"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

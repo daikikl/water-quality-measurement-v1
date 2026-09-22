@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"H1, H2, H3, H4";"MountingHole_2.2mm_M2";4;"MountingHole";;;
+2;"J1, J6, J7";"TerminalBlock_bornier-2_P5.08mm";3;"Conn_01x02";;;
+3;"J2, J3, J4, J8";"TerminalBlock_bornier-4_P5.08mm";4;"Conn_01x04";;;
+4;"SW1";"TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal";1;"SW_DPST_x2";;;
+5;"U1";"LILYGO®TTGO_LoRa32_V2.1";1;"LilyGO TTGO T3 LoRa32 
+433MHz V1.6.1 ESP32";;;
+6;"U2";"MAX485 HW-097";1;"MAX485E";;;

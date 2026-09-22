@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.6*%
+%TF.CreationDate,2026-09-21T21:34:33-03:00*%
+%TF.ProjectId,water-quality-v1,77617465-722d-4717-9561-6c6974792d76,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.6) date 2026-09-21 21:34:33*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X104038400Y-46900100D02*
+X204038400Y-46900100D01*
+X204038400Y-146900100D01*
+X104038400Y-146900100D01*
+X104038400Y-46900100D01*
+M02*
